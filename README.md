@@ -28,7 +28,8 @@ The project shows how to generate and verify JWT tokens for secure authenticatio
 ## 📂 Project Structure
 
 NodeJS-JWT-Basic/
-│
+
+ 
 ├── index.js # Main server and JWT logic
 
 ├── package.json # Dependencies
